@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">puregrow</string>
+    <string name="home">Home</string>
+    <string name="vegetables">Vegetables</string>
+    <string name="profile">Profile</string>
+    <string name="login">login</string>
+    <string name="register">register</string>
+    <string name="version_unknown">Unknown</string>
+    <string name="app_version">Version</string>
+</resources>
